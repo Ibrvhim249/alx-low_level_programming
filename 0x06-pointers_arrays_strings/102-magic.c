@@ -1,5 +1,5 @@
 #include <stdio.h>
-void print_number(int n);
+void print_number(int n)
 {
 	int n;
 	int a[5];
